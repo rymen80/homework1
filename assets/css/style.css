@@ -55,14 +55,21 @@ p {
     background-position: center;
 }
 
-.float-left {
+.search-engine-optimization img {
+    max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.online-reputation-management img {
+    max-height: 200px;
     float: right;
     margin-left: 25px;
+}
+.social-media-marketing img {
+    max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 .content {
@@ -125,18 +132,6 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -152,13 +147,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
