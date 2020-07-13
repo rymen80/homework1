@@ -21,7 +21,7 @@ h1 {
   font-size: 48px;
 }
 
-h1 .seo {
+.seo {
   color: #d9dcd6;
 }
 
@@ -33,13 +33,13 @@ ul {
   font-size: 20px;
   list-style-type: none;
 }
-
 li {
   display: inline-block;
   margin-left: 25px;
 }
 a {
   color: #ffffff;
+  text-decoration: none;
 }
 
 p {
@@ -54,6 +54,12 @@ p {
   background-size: cover;
   background-position: center;
 }
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
@@ -78,12 +84,6 @@ p {
   max-height: 200px;
   float: right;
   margin-left: 25px;
-}
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 .benefits {
