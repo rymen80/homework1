@@ -7,6 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
+/* now just accesing the header tag instead of class, change also allows us to access many tags directly*/
 
 header {
   padding: 20px;
@@ -24,7 +25,7 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
-
+/* consolidated more lines of code into the ul */
 ul {
   padding-top: 15px;
   margin-right: 20px;
@@ -59,7 +60,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
-
+/* the addeing of the content-section class in html helps consolidate many lines of redundant code   */
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,7 +113,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* accesing a footer tag directly*/
 footer {
   padding: 30px;
   clear: both;
