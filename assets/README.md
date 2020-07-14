@@ -1,4 +1,1 @@
-For this project we were required to clean up and make more efficient the code for the index.html and style.css files.
-Add description of what was wrong with code " ".
-Add descripton of what I fixed on the code " ".
-Screen Shot of finished product IE. Website, here.
+For this project we were required to clean up and make more efficient the code for the index.html and style.css files.  In both cases the code was bad. In css i consilidated many of the redundant style attributes by changng their class names in the .html file. I'm sure there are more better ways to do this.
